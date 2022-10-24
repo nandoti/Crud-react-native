@@ -1,11 +1,11 @@
 ## Crud de Cadastro de Clientes
 
-# Baixar as dependências
+### Baixar as dependências
 $ yarn install
 ou
 $ npm install
 
-# execute o comando
+### execute o comando
 $ yarn start
 ou
 $ npm start
